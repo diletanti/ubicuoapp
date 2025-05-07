@@ -1,9 +1,5 @@
 @import url(fontawesome-all.min.css);
 
-/*
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html,
 body,
 div,
@@ -126,7 +122,7 @@ body {
 
 .video-responsive {
 	width: 100%;
-	aspect-ratio: 16 / 9;
+	aspect-ratio: 64 / 36;
 	display: block;
 }
 
